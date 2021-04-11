@@ -8,5 +8,3 @@ Microsoft.EntityFrameworkCore
 MySql.Data.EntityFrameworkCore
 
 MySql.Data.EntityFrameworkCore.Design
-
-Facebook Gabriel Veronesi 2020.
